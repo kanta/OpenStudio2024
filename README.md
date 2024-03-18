@@ -20,7 +20,4 @@
 - キッズコーナー
 
 ## 参加登録
-[こちらのフォーム](https://docs.google.com/forms/d/1lhzb7XwlRHWgd9XNmenYOhGv0y0wSqm278sAvCR6YCc/edit
-)から登録をお願いします。
-
-※公開イベントではありますが、会場は個人宅でもあるので、今回は直接のお知り合いか、お知り合いからのご紹介の方に限定させていただきます。
+[こちらのフォーム](https://docs.google.com/forms/d/1lhzb7XwlRHWgd9XNmenYOhGv0y0wSqm278sAvCR6YCc/edit)から登録をお願いします。
