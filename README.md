@@ -8,6 +8,7 @@
 - 会場： 堀尾スタジオ＆堀尾家（[長野県佐久市岩村田上ノ城](https://maps.app.goo.gl/3SL8g3zoJbbMY6ZR9)）
   - 個人宅につき、参加登録された方に住所とアクセス方法をお知らせいたします。
 - 入場無料
+- [気温](https://docs.google.com/spreadsheets/d/1d41NWnKz_-3gai1RPzNCwqmcrNDzAIPshY2XLD4peys/edit?usp=sharing)
  
 ## 内容（見込み）
 - 新作インスタレーションの展示
