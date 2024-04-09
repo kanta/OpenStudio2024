@@ -101,7 +101,7 @@
 			(plotframeref no)
 			(viasonmask no)
 			(mode 1)
-			(useauxorigin no)
+			(useauxorigin yes)
 			(hpglpennumber 1)
 			(hpglpenspeed 20)
 			(hpglpendiameter 15.000000)
@@ -120,9 +120,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "hh/")
 		)
 	)
 	(net 0 "")
@@ -3020,7 +3020,7 @@
 		(descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C1"
-			(at -2.5 0.5 360)
+			(at -2.5 0.5 0)
 			(layer "F.SilkS")
 			(uuid "38bc7624-e164-475a-a04b-87ff959d2782")
 			(effects
@@ -3031,7 +3031,7 @@
 			)
 		)
 		(property "Value" "47nF"
-			(at 0 1.43 360)
+			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "670f1c19-d412-4720-b3f8-5bb9fb5a621c")
 			(effects
@@ -3181,7 +3181,7 @@
 			(uuid "97b7e5c0-f6b8-480c-ad28-41a0dd94c1e2")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "8974f0ce-dd68-4cdb-975c-0210aa276a04")
 			(effects
@@ -7149,6 +7149,39 @@
 	(dimension
 		(type aligned)
 		(layer "User.1")
+		(uuid "239ea42c-8450-477a-a0ae-6a01c35b03b2")
+		(pts
+			(xy 217 99.5) (xy 217 47.5)
+		)
+		(height 11)
+		(gr_text "52.0000 mm"
+			(at 226.85 73.5 90)
+			(layer "User.1")
+			(uuid "239ea42c-8450-477a-a0ae-6a01c35b03b2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "User.1")
 		(uuid "2c987a31-8e4f-461d-bcea-af036bc8f419")
 		(pts
 			(xy 203.5 43) (xy 203.5 36)
@@ -7237,6 +7270,105 @@
 			(units 3)
 			(units_format 1)
 			(precision 1)
+		)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "User.1")
+		(uuid "83cf0ffa-c750-472b-b03d-2f399a08686e")
+		(pts
+			(xy 203.5 105) (xy 203.5 99.5)
+		)
+		(height 22.7)
+		(gr_text "5.5000 mm"
+			(at 225.05 102.25 90)
+			(layer "User.1")
+			(uuid "83cf0ffa-c750-472b-b03d-2f399a08686e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "User.1")
+		(uuid "a9a7d8c6-ddd2-4cc4-aafd-4311a9a645af")
+		(pts
+			(xy 195 130) (xy 189 130)
+		)
+		(height -29)
+		(gr_text "6.0000 mm"
+			(at 192 157.85 0)
+			(layer "User.1")
+			(uuid "a9a7d8c6-ddd2-4cc4-aafd-4311a9a645af")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "User.1")
+		(uuid "c767708b-fc11-41d7-b1c4-ed06c99b2b4e")
+		(pts
+			(xy 211 131.5) (xy 218 131.5)
+		)
+		(height 27.5)
+		(gr_text "7.0000 mm"
+			(at 214.5 157.85 0)
+			(layer "User.1")
+			(uuid "c767708b-fc11-41d7-b1c4-ed06c99b2b4e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
 		)
 		(style
 			(thickness 0.15)

@@ -3301,7 +3301,7 @@
 				)
 			)
 		)
-		(property "Value" "47nF"
+		(property "Value" "100nF"
 			(at 62.23 101.6 90)
 			(effects
 				(font
@@ -4121,7 +4121,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "10k"
 			(at 88.9 91.44 0)
 			(effects
 				(font
@@ -4694,7 +4694,7 @@
 				)
 			)
 		)
-		(property "Value" "47nF"
+		(property "Value" "100nF"
 			(at 62.23 58.42 90)
 			(effects
 				(font
@@ -5100,7 +5100,7 @@
 		(fields_autoplaced yes)
 		(uuid "e228bee3-51c8-4b3e-99b7-09386c97617e")
 		(property "Reference" "R4"
-			(at 72.39 101.6 0)
+			(at 72.39 101.5999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5108,8 +5108,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
-			(at 72.39 104.14 0)
+		(property "Value" "10k"
+			(at 72.39 104.1399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5170,7 +5170,7 @@
 		(fields_autoplaced yes)
 		(uuid "e9842ffb-bf7e-4614-afb3-48d2ef8808e6")
 		(property "Reference" "R2"
-			(at 74.93 66.04 0)
+			(at 74.93 66.0399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5178,8 +5178,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
-			(at 74.93 68.58 0)
+		(property "Value" "10k"
+			(at 74.93 68.5799 0)
 			(effects
 				(font
 					(size 1.27 1.27)

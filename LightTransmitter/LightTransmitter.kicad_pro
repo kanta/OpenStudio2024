@@ -495,7 +495,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "LightTransmitter/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
