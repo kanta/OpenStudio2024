@@ -3702,7 +3702,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "AudioJack3_SwitchTR"
+		(property "Value" "MJ-495A"
 			(at 198.12 118.745 0)
 			(effects
 				(font
@@ -4898,7 +4898,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_Photo_NPN"
+		(property "Value" "L-31ROPT1C"
 			(at 54.61 71.6407 0)
 			(effects
 				(font
@@ -5248,7 +5248,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_Photo_NPN"
+		(property "Value" "L-31ROPT1C"
 			(at 54.61 114.8207 0)
 			(effects
 				(font
